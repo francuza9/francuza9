@@ -7,3 +7,4 @@
 [![gtskitis's 42 ft_irc Score](https://badge42.coday.fr/api/v2/clyhrkseb3865301p4kzho7wiz/project/3732801)](https://github.com/Coday-meric/badge42)
 [![gtskitis's 42 cub3d Score](https://badge42.coday.fr/api/v2/clyhrkseb3865301p4kzho7wiz/project/3672225)](https://github.com/Coday-meric/badge42)
 [![gtskitis's 42 minishell Score](https://badge42.coday.fr/api/v2/clyhrkseb3865301p4kzho7wiz/project/3542014)](https://github.com/Coday-meric/badge42)
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clyhrkseb3865301p4kzho7wiz/project/3584399" alt="gtskitis's 42 Exam Rank 03 Score" /></a>
