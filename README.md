@@ -1,6 +1,8 @@
 
 [![gtskitis's 42 stats](https://badge42.coday.fr/api/v2/clyhrkseb3865301p4kzho7wiz/stats?cursusId=21&coalitionId=219)](https://github.com/Coday-meric/badge42)
 
+[![francuza9's GitHub stats](https://github-readme-stats.vercel.app/api?username=francuza9)](https://github.com/francuza9/github-readme-stats)
+
 
 42 Major Projects Progess:
 
